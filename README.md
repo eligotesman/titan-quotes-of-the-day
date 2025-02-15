@@ -50,7 +50,7 @@
 
    - `your_favqs_api_key` with your FavQs API key
    - `your_mongodb_uri` with your MongoDB connection string, if not provided, the default connection URL will be used `mongodb://localhost:27017`
-   - `your_server_api_url` with the URL of the server API (default: `http://localhost:3000/api`)
+   - `your_server_api_url` with the URL of the server API, if not provided, the default API URL will be used `http://localhost:3000/api`
 
 5. Start the application:
 
