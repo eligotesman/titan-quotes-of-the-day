@@ -55,7 +55,7 @@
 5. Start the application:
 
    ```bash
-   npm run server
+   npm run dev
    ```
 
    the client will run on `http://localhost:5173` and the server on `http://localhost:3000/api`
