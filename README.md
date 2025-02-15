@@ -43,6 +43,7 @@
    ```
    FAVQS_API_KEY=your_favqs_api_key
    MONGODB_URI=your_mongodb_uri
+   VITE_REACT_API_BASE_URL=your_server_api_url
    ```
 
    Replace:
